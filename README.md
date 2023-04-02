@@ -1,4 +1,5 @@
-# Francisco Barroso
-Empece en la facultad en 2018, estoy trabajando y estudiando. Trabajo en el ICBC en la parte de atencion al cliente. 
+# Francisco Tomas Barroso
+Legajo : 169.911-9
+Descripción : Empece en la facultad en 2018, tengo 23 años y estoy estudiando y trabajando
 No tengo muchos hobbies mas que jugar al futbol e ir al gimnasio.
-[![Foto mia]fotocarnet.jpg]
+add [![Foto mia]fotocarnet.jpg]
