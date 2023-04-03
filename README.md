@@ -4,3 +4,4 @@ Descripción : Empece en la facultad en 2018, tengo 23 años y estoy estudiando 
 No tengo muchos hobbies mas que jugar al futbol e ir al gimnasio.  
 
 ![Es una foto mia](https://github.com/pdepmartestm/bienvenida-2023-FranBarroso2/blob/main/Foto%20carnet.jpg)
+<img src="foto.jpeg" width=20%>
